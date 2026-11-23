@@ -1,0 +1,778 @@
+# El ile hazırlanmış sorular. Biçim:
+# ? <ünite no> | soru
+# + doğru cevap
+# - çeldirici (3 adet)
+# = açıklama
+# Bütün bilgiler ünite metinlerinden alınmıştır.
+
+# ---------- 1. ünite ----------
+? 1 | Mezhepler tarihinin araştırmalarında esas aldığı metot hangisidir?
++ Betimleyici (deskriptif) metot
+- Savunmacı (apolojetik) metot
+- Normatif-yargılayıcı metot
+- Cedel metodu
+= Mezhepler tarihi görüşlerin doğru ya da yanlışlığını araştırmaz; tarafsız biçimde "var olanın resmini çizer".
+
+? 1 | "Fikir-hadise irtibatı" ilkesi neyi ifade eder?
++ Bir fikrin tezahürlerini zaman-mekân bağlamında olaylarla karşılaştırarak test etmeyi
+- Fikirlerin yalnız ayet ve hadislerle temellendirilmesini
+- Mezheplerin kurucularının biyografisini esas almayı
+- Mezhepleri 73 fırka şemasına göre sınıflandırmayı
+= Kaynaklardaki abartılı ya da uydurma bilgiler, fikirlerin tarihî olaylarla irtibatı kurularak test edilir.
+
+? 1 | Şehristânî'ye göre bir grubun ayrı bir mezhep sayılması için ne gerekir?
++ Dört ana kaidede (tevhid-sıfatlar, kader-adalet, va'd-vaîd ve esmâ-ahkâm, akıl-sem' ve imamet) farklı görüş ortaya koyması
+- Yalnız tek bir meselede farklı görüş ileri sürmesi
+- Kendi fıkıh mezhebini kurmuş olması
+- En az yetmiş üç alt kola ayrılmış olması
+= Şehristânî tek bir meselede farklılaşmayı mezhep için yeterli görmez; usul hükmündeki dört kaideyi ölçü alır.
+
+? 1 | 73 fırka (iftirak) hadisi aşağıdaki eserlerin hangisinde yer almaz?
++ Buhârî'nin Sahîh'i
+- Tirmizî'nin Sünen'i
+- İbn Mâce'nin Sünen'i
+- Ahmed b. Hanbel'in Müsned'i
+= Hadisin hiçbir rivayeti Buhârî, Müslim ve Nesâî'de bulunmaz.
+
+? 1 | Makâlâtü'l-İslâmiyyîn'de 73 fırka hadisinden hiç söz etmeyen ve fırkaları on ana gruba ayıran müellif kimdir?
++ Ebü'l-Hasan el-Eş'arî
+- Abdülkāhir el-Bağdâdî
+- Malatî
+- Şehristânî
+= Eş'arî hadisi ne olumlu ne olumsuz anar; alt kollarla birlikte saydığı fırkalar 73'ü aşar.
+
+? 1 | Fırka-i nâciye dışındaki fırkaları dört ana kola ve her birini on sekiz alt kola ayıran (4×18) tasnif çoğunlukla kimlere aittir?
++ Hanbelî müelliflere (Berbehârî, Âcurrî, İbn Batta)
+- İsmâilî müelliflere
+- Mu'tezilî müelliflere
+- Zeydî müelliflere
+= Bu tasnifte dört ana fırka Ravâfız, Havâric, Kaderiyye ve Mürcie'dir.
+
+? 1 | Hz. Peygamber döneminde fırkalaşma olmamasının iki temel sebebi nedir?
++ Vahyin henüz tamamlanmamış olması ve Hz. Peygamber'in dinî-dünyevî otoritesinin varlığı
+- Müslümanların az sayıda olması ve savaşların sürmesi
+- Kur'an'ın kitap hâline getirilmemiş olması ve hadislerin yazılmaması
+- Arap kabilelerinin birlik içinde olması ve dış tehdidin bulunmaması
+= Sahabe sorularını doğrudan Peygamber'e sorup kesin cevap alabiliyordu.
+
+? 1 | Hz. Ebû Bekir döneminde ortaya çıkan ihtilaflar arasında hangisi yoktur?
++ Hakem olayı
+- Hz. Peygamber'in mirası (Fedek)
+- Zekât vermekten kaçınanlar
+- Kur'an'ın kitap hâline getirilmesi
+= Hakem (tahkim) olayı Hz. Ali döneminde, Sıffîn'den sonra yaşanmıştır.
+
+? 1 | Tercüme faaliyetlerinden en fazla etkilenen İslam mezhebi hangisidir?
++ Mu'tezile
+- Hâricîlik
+- Mürcie
+- Zeydiyye
+= Mezheplerin doğuşunun dış sebepleri arasında sayılan tercüme hareketi en çok Mu'tezile'yi etkilemiştir.
+
+# ---------- 2. ünite ----------
+? 2 | Ehl-i Sünnet'in iki ana kolundan "Ehl-i Sünnet-i hâssa" hangisidir?
++ Selefiyye (Ehl-i Hadis)
+- Mâtürîdiyye
+- Eş'ariyye
+- Mürcie
+= Hâssa kolu nasları te'vil, teşbih ve ta'tîl olmadan kabul eden Selefiyye'dir; âmme kolu Mâtürîdiyye ve Eş'ariyye'dir.
+
+? 2 | İmam Mâtürîdî'nin günümüze ulaşan ve tek nüshası Cambridge'de bulunan kelâm eseri hangisidir?
++ Kitâbü't-Tevhîd
+- Te'vîlâtü'l-Kur'ân
+- Tebsıratü'l-edille
+- es-Sevâdü'l-a'zam
+= Te'vîlâtü'l-Kur'ân da Mâtürîdî'nindir ama tefsirdir; Tebsıratü'l-edille Ebü'l-Muîn en-Nesefî'ye aittir.
+
+? 2 | Mâtürîdîliğin sistemleşmesinde, Eş'arîlikteki Gazzâlî'ye benzer konumda olan âlim kimdir?
++ Ebü'l-Muîn en-Nesefî
+- Necmeddin en-Nesefî
+- Hakîm es-Semerkandî
+- Ebü'l-Yüsr el-Pezdevî
+= Ebü'l-Muîn en-Nesefî (ö. 508/1115) ile Mâtürîdîliğin müteahhirûn dönemi başlar.
+
+? 2 | Mâtürîdiyye'ye göre iman ile ilgili hangisi doğrudur?
++ İmanın aslı kalple tasdiktir; iman artmaz ve eksilmez
+- Amel imanın parçasıdır; iman artar ve eksilir
+- İman yalnız dil ile ikrardır
+- Büyük günah işleyen imandan çıkar
+= Mâtürîdîlere göre dil ile ikrar kalpteki imanın ifadesidir; artan ve eksilen yakîn ve kuvvettir, imanın kendisi değil.
+
+? 2 | Mâtürîdî'nin ihmal edilme sebepleri arasında hangisi sayılmaz?
++ Eserlerini Farsça yazmış olması
+- Hilafet merkezi Bağdat'tan uzakta yaşaması
+- Bölgenin istilalara uğrayıp eserlerin tahrip edilmesi
+- Eş'arîliğin İslam dünyasındaki nüfuzu
+= Mâtürîdî eserlerini Arapça yazmıştır; diğerleri kaynaklarda sayılan sebeplerdir.
+
+? 2 | XIX. yüzyılda başlayan "yeni ilm-i kelâm" döneminin Mâtürîdî temsilcileri arasında hangisi yer alır?
++ İsmail Hakkı İzmirli
+- Ebü'l-Muîn en-Nesefî
+- İbnü'l-Hümâm
+- Hızır Bey
+= İzmirli, Ömer Nasuhi Bilmen, Abdüllatif Harpûtî ve Filibeli Ahmed Hilmi bu dönemin temsilcileridir.
+
+# ---------- 3. ünite ----------
+? 3 | Eş'arî'nin Mu'tezile'den ayrılmasına sebep olduğu nakledilen tartışma hangisidir?
++ Üç kardeş (ihve-i selâse) meselesi
+- Halku'l-Kur'an meselesi
+- Rü'yetullah meselesi
+- Hakem olayı
+= Mümin, kâfir ve küçük yaşta ölen üç kardeşin âhiretteki durumu sorulunca hocası Cübbâî'nin "aslah" açıklaması yetersiz kalmıştır.
+
+? 3 | Kaynaklarda "Eş'ariyye'nin ikinci kurucusu" olarak gösterilen âlim kimdir?
++ Ebû Bekir el-Bâkıllânî
+- Gazzâlî
+- Fahreddin er-Râzî
+- Cüveynî
+= Bâkıllânî cevher, araz ve aded kavramlarıyla Eş'arî tabiat felsefesini geliştirmiştir.
+
+? 3 | Eş'arî kelâmında felsefe ve mantığın kelâma girdiği müteahhirûn dönemi kim ile başlar?
++ Gazzâlî
+- Bâkıllânî
+- Teftâzânî
+- İbn Fûrek
+= Gazzâlî ile müteahhirûn, Teftâzânî ile şerh ve haşiye dönemi başlamıştır.
+
+? 3 | Eş'arîlere göre Allah'ın fiilî sıfatları hakkında hangisi doğrudur?
++ Zat ile kaim olmayıp hâdistir; kudretin taallukuyla meydana gelir
+- Ezelî ve zatla kaim müstakil sıfatlardır
+- Zatın aynıdır
+- Yalnız naslarla bilinir, akılla bilinemez
+= Mâtürîdîler tekvini ezelî ve müstakil sıfat sayarken Eş'arîler fiilî sıfatları hâdis kabul eder.
+
+? 3 | Aşağıdakilerden hangisi Eş'arîlik ile Mâtürîdîlik arasındaki farklardan biri değildir?
++ Allah'ın varlığının kabulü
+- Hüsün ve kubhun akılla bilinip bilinemeyeceği
+- Teklîf-i mâ lâ yutâkın caiz olup olmadığı
+- İmanın artıp eksilmesi
+= İki ekol de Allah'ın varlığında birleşir; diğerleri temel farklar arasındadır.
+
+? 3 | Selçuklular döneminde Eş'arîlerin baskıya uğramasına yol açan Mu'tezilî vezir kimdir?
++ Amîdülmülk el-Kündürî
+- Nizâmülmülk
+- Ahmed b. Ebû Duâd
+- Fazl b. Yahyâ el-Bermekî
+= Tuğrul Bey döneminde Kündürî'nin baskısı Alparslan'ın onu görevden almasıyla son bulmuş, Nizâmülmülk'ün medreseleri Eş'arîliği güçlendirmiştir.
+
+? 3 | Eş'arîlere göre nübüvveti ispatın en önemli delili hangisidir?
++ Mucize
+- Peygamberin ahlakı
+- Önceki kitapların müjdeleri
+- Akli zorunluluk
+= Mucize tabiat kanunlarını aşan ilâhî bir fiil olarak peygamberin doğruluğunu tasdik eder.
+
+# ---------- 4. ünite ----------
+? 4 | Hâricîlerin Hz. Ali'den ayrıldıktan sonra toplandıkları yer ve bu yere nispetle aldıkları ad hangisidir?
++ Harûrâ – Harûriyye
+- Nehrevan – Nehreviyye
+- Sıffîn – Sıffîniyye
+- Kûfe – Kûfiyye
+= Harûrâ'da karargâh kurdukları için Harûriyye, Abdullah b. Vehb er-Râsibî'yi lider seçtikleri için Vehbiyye diye de anılmışlardır.
+
+? 4 | Hâricîlerin Hz. Ali'den ayrılma gerekçeleri arasında hangisi yoktur?
++ Hz. Ali'nin Kureyşli olması
+- Tahkimi kabul etmesi
+- "Emîrü'l-müminîn" unvanını sildirmesi
+- Hakemlerin hakemlik vasfına sahip olmaması
+= Dördüncü gerekçe de Allah'ın hüküm verdiği meselede insanların hüküm veremeyeceğidir.
+
+? 4 | Kendileri gibi düşünüp kendileriyle kıyam etmeyen Hâricîleri bile kâfir sayan ve muhaliflerin kadın ve çocuklarını öldürmeyi caiz gören fırka hangisidir?
++ Ezârika
+- Necedât
+- Sufriyye
+- İbâziyye
+= Ezârika Nâfi' b. Ezrak'a (ö. 65/685) nispet edilen en aşırı Hâricî fırkasıdır.
+
+? 4 | İbâziyye'nin "fikir babası" sayılan âlim kimdir?
++ Câbir b. Zeyd
+- Abdullah b. İbâz
+- Ebû Ubeyde Müslim b. Ebû Kerîme
+- Abdurrahman b. Rüstem
+= Abdullah b. İbâz adını vermiş, mezhebin fıkıh ve usulünü kuran ise Câbir b. Zeyd olmuştur.
+
+? 4 | İbâziyye'ye göre büyük günah işleyen Müslüman hangi durumdadır?
++ Müşrik değil muvahhiddir ama nimet küfrü içindedir
+- Müşrik ve dinden çıkmıştır
+- Tam bir mümindir, günahı imanına zarar vermez
+- Ne mümin ne kâfirdir, fâsıktır
+= "Fâsık" ara konumu Mu'tezile'nin görüşüdür; İbâziyye "nimet küfrü" kavramını kullanır.
+
+? 4 | İbâziyye'nin günümüzde nüfusun yaklaşık %40-45'ini oluşturduğu ülke hangisidir?
++ Umman
+- Yemen
+- Suudi Arabistan
+- Mısır
+= İbâzîler ayrıca Zengibar, Libya, Tunus (Cerbe) ve Cezayir'de (Mizab) yaşar.
+
+? 4 | İbâziyye'nin dokuz ilkesi arasında hangisi yer almaz?
++ İmamların ismeti
+- Velâyet ve berâet
+- Lâ menzile beyne'l-menzileteyn
+- Va'd ve vaîd
+= Dokuz ilke: tevhid, kader, adalet, va'd-vaîd, el-menzile beyne'l-menzileteyn, lâ menzile beyne'l-menzileteyn, emr ve nehy, velâyet-berâet, esmâ ve ahkâm.
+
+? 4 | İbâzîlerde imamın gizli kaldığı, cemaatin açıkça imam seçemediği döneme ne ad verilir?
++ Kitmân
+- Gaybet
+- Setr
+- Takiyye
+= Saldırı karşısında seçilen lidere imâmü'd-difâ', normal şartlarda seçilene imâmü'l-bey'a denir.
+
+# ---------- 5. ünite ----------
+? 5 | Şîa'nın en önemli doktrini olarak kabul edilen ve onu diğer mezheplerden ayıran inanç hangisidir?
++ İmamet
+- Tevhid
+- Va'd ve vaîd
+- Kader
+= Şîa'ya göre imamet nas ve tayinle olur ve Hz. Ali'nin soyunda devam eder.
+
+? 5 | "Ben kimin mevlâsı isem Ali de onun mevlâsıdır" sözü Şîa'nın dayandığı hangi hadistir?
++ Gadîr-i Hum hadisi
+- Sakaleyn hadisi
+- Yakın akrabaların uyarılması hadisi
+- Menzile hadisi
+= Şiî yoruma göre bu söz Hz. Ali'nin halife tayin edildiğinin açık ilanıdır.
+
+? 5 | Hz. Hüseyin'in şehadetine pişmanlık duyan Kûfelilerin intikam ve kefaret amacıyla başlattığı hareket hangisidir?
++ Tevvâbûn
+- Keysâniyye
+- Haşebiyye
+- Mansûriyye
+= Tevvâbûn hareketi Şîa'nın siyasi bir gruptan mezhebe dönüşmesinde önemli bir aşamadır.
+
+? 5 | İmâmiyye'ye fıkhı Ca'fer es-Sâdık'a dayandığı için verilen ad hangisidir?
++ Ca'feriyye
+- İsnâaşeriyye
+- Râfıza
+- Kat'iyye
+= İsnâaşeriyye adı on iki imama inanmalarından, İmâmiyye adı imameti dinin temeli saymalarından gelir.
+
+? 5 | Gaybet-i suğrâ döneminde on ikinci imam ile topluluk arasında irtibatı sağladığına inanılan dört sefirin ilki kimdir?
++ Osman b. Saîd el-Amrî
+- Hüseyin b. Rûh en-Nevbahtî
+- Ali b. Muhammed es-Simerî
+- Şeyh Müfîd
+= Dört sefir sırasıyla Osman b. Saîd, Muhammed b. Osman, Hüseyin b. Rûh ve Ali b. Muhammed es-Simerî'dir.
+
+? 5 | İmâmiyye'nin İran'da resmî mezhep hâline geldiği dönem hangisidir?
++ Safevîler
+- Büveyhîler
+- İlhanlılar
+- Kaçarlar
+= İsnâaşeriyye 1501'de kurulan Safevî Devleti ile İran'da resmî mezhep olmuştur.
+
+? 5 | İmâmiyye'de "Allah'ın belli bir şekilde vuku bulacağını haber verdiği bir olayın daha sonra farklı gerçekleşmesi" anlamındaki inanç hangisidir?
++ Bedâ'
+- Ric'at
+- Takiyye
+- Tevellâ
+= Ric'at Mehdî ile bazı ölülerin dünyaya dönüşü, takiyye tehlike karşısında inancı gizleme, tevellâ Ehl-i Beyt'i sevmektir.
+
+? 5 | İmâmiyye'ye göre kazancın beşte birinin verilmesi şeklindeki malî ibadet hangisidir?
++ Humus
+- Zekât
+- Sadaka-i fıtr
+- Hukûkullah
+= Humusun bir kısmı imam (gaybette müctehid) ve seyyidler adına verilir.
+
+? 5 | İmamın gaybeti döneminde onun temsil yetkisinin en yetkin fakih tarafından kullanılması anlayışı hangisidir?
++ Velâyet-i fakîh
+- Merci-i taklîd
+- Ahbârîlik
+- Gaybet-i kübrâ
+= 1979 İran devriminden sonraki yönetim bu anlayışa dayanır.
+
+# ---------- 6. ünite ----------
+? 6 | Zeydiyye mezhebi adını kimden alır?
++ Zeyd b. Ali b. Hüseyin
+- Zeyd b. Sâbit
+- Zeyd b. Hârise
+- Zeyd b. Amr
+= Zeyd b. Ali 122/740'ta Kûfe'de Emevîlere karşı ayaklanmış ve şehit edilmiştir.
+
+? 6 | Zeyd b. Ali'yi Ebû Bekir ve Ömer'den teberrî etmediği için terk edenlere ne ad verilmiştir?
++ Râfıza
+- Haşebiyye
+- Tevvâbûn
+- Sebeiyye
+= "Terk eden, ayrılan" anlamındaki Râfıza adı bu olaydan sonra yaygınlaşmıştır.
+
+? 6 | Zeydiyye'nin Ebû Bekir ve Ömer'in hilafetini meşru saymasını sağlayan ilke hangisidir?
++ Mefdûlün imametinin caiz olması
+- Nas ile tayin
+- İmamların ismeti
+- Gizli imam inancı
+= Zeyd'e göre efdal varken maslahat gereği daha az faziletli birinin imam olması mümkündür.
+
+? 6 | Zeydîlere göre imamda aranan şartlar arasında hangisi yoktur?
++ Masum olması
+- Faziletli (ilim ve takva sahibi) olması
+- Hz. Hasan veya Hüseyin soyundan gelmesi
+- İmametini açıkça ilan etmesi
+= Zeydîlere göre ismet yalnız peygamberlere aittir.
+
+? 6 | Yemen'de Zeydîliği yayan ve günümüze ulaşan Hâdeviyye koluna adını veren kişi kimdir?
++ Hâdî İle'l-Hak Yahyâ b. Hüseyin
+- Kāsım b. İbrâhim er-Ressî
+- Nâsır li'l-Hak el-Utrûş
+- İbnü'l-Murtazâ
+= Kāsımiyye ve Nâsıriyye öteki iki fıkhî koldur.
+
+? 6 | Zeydî fıkhı ile ilgili hangisi yanlıştır?
++ Mut'a nikâhı caizdir
+- Ezana "hayye alâ hayri'l-amel" eklenir
+- Teravihi cemaatle kılmak bid'attır
+- Hırsızlıkta nisap 10 dirhemdir
+= Zeydîler İmâmiyye'den farklı olarak mut'ayı caiz görmez.
+
+# ---------- 7. ünite ----------
+? 7 | İsmâiliyye'nin oluşumuna yol açan imamet tartışması hangi imamın vefatından sonra çıkmıştır?
++ Ca'fer es-Sâdık
+- Muhammed el-Bâkır
+- Mûsâ el-Kâzım
+- Hasan el-Askerî
+= Ca'fer es-Sâdık'tan sonra imametin İsmail'e mi Mûsâ el-Kâzım'a mı geçtiği tartışılmıştır.
+
+? 7 | İsmâilîlere, hakikatin ancak masum imamın öğretmesiyle bilinebileceğini savundukları için verilen ad hangisidir?
++ Ta'limiyye
+- Seb'iyye
+- Karâmita
+- Mübârekiyye
+= Seb'iyye yedi sayısından, Karâmita Hamdân Karmat'tan, Mübârekiyye İsmail'in kölesi Mübârek'ten gelir.
+
+? 7 | İmamların gizli kaldığı ve hareketin dâîler tarafından yürütüldüğü döneme ne ad verilir?
++ Setr devri
+- Kitmân devri
+- Gaybet-i kübrâ
+- Kıyamet devri
+= Setr devri Muhammed b. İsmail'den Ubeydullah el-Mehdî'nin zuhuruna kadar sürmüştür.
+
+? 7 | Ubeydullah el-Mehdî'nin imametini tanımayıp Bahreyn'de devlet kuran İsmâilî kol hangisidir?
++ Karmatîler
+- Nizârîler
+- Müsta'lîler
+- Dürzîler
+= Bahreyn Karmatî Devleti'ni Ebû Saîd el-Cennâbî kurmuştur.
+
+? 7 | 1094'teki ayrılıkta Alamut'u merkez edinen ve bugün Ağa Han'ı imam tanıyan kol hangisidir?
++ Nizâriyye
+- Müsta'liyye
+- Tayyibiyye
+- Karmatîler
+= Müsta'lîler Tayyibî kolu ile Yemen ve Hindistan'da (Bohralar) devam etmiştir.
+
+? 7 | İsmâilî devrî tarih anlayışında yeni bir şeriat getiren peygambere ne ad verilir?
++ Nâtık
+- Sâmit
+- Hüccet
+- Me'zûn
+= Her nâtığın yanında vahyin bâtınını te'vil eden bir sâmit (esas, vasî) bulunur.
+
+? 7 | Fâtımî halifesi Muiz Li-dînillâh Mısır'ı hangi yıl ele geçirmiştir?
++ 969
+- 909
+- 1021
+- 1094
+= Fâtımî Devleti 909'da Kuzey Afrika'da kurulmuş, 969'da Mısır'ı almıştır.
+
+# ---------- 8. ünite ----------
+? 8 | Nusayrîlik adını büyük ihtimalle kimden almıştır?
++ Muhammed b. Nusayr en-Nemîrî
+- Hüseyin b. Hamdân el-Hasîbî
+- Ali el-Haydarî
+- Muhammed b. Yûnus el-Kilâzî
+= Mezhep önce Nemîriyye diye anılmış, V/XI. yüzyıldan itibaren Nusayrî adı yaygınlaşmıştır.
+
+? 8 | Nusayrîlerdeki "Mânâ-İsim-Bâb" üçlemesinde "bâb" kimdir?
++ Selmân-ı Fârisî
+- Hz. Muhammed
+- Hz. Ali
+- Mikdâd b. Esved
+= Mânâ Hz. Ali, isim Hz. Muhammed, bâb Selmân-ı Fârisî'dir.
+
+? 8 | Nusayrîlikte ruhun ölümden sonra başka bir bedene geçmesi inancına ne ad verilir?
++ Tekammus (tenâsüh)
+- Hulûl
+- Ric'at
+- Sudûr
+= Nusayrîlere göre iyi ruhlar yıldızlara yükselir, kötüler hayvan bedenlerine girer.
+
+? 8 | Nusayrîlikte namaz hangi biçimde anlaşılır?
++ Sesli yapılan, gizli ve bireysel bir dua
+- Camide cemaatle kılınan beş vakit namaz
+- Günde üç vakit cemaatle kılınan namaz
+- Yalnız bayramlarda kılınan namaz
+= Nusayrîlikte ibadetler bâtınî yorumlanır ve camiye ihtiyaç duyulmaz.
+
+? 8 | Nusayrî toplumunda dinî sırlara vâkıf olanlar ile bilmeyen halk ayrımı hangi terimlerle ifade edilir?
++ Ukkāl ve cühhâl
+- Havas ve avam
+- Nâtık ve sâmit
+- Hüccet ve dâî
+= Kadınlar dinî sırlardan uzak tutulur ve cemaate alınmaz.
+
+? 8 | Arap Aleviliği (Nusayrîlik) ile Anadolu Aleviliğini karşılaştıran ifadelerden hangisi yanlıştır?
++ Her ikisinde de ibadetler cemevlerinde kadın-erkek birlikte yapılır
+- Nusayrîlik Arap, Anadolu Aleviliği Türk kökenlidir
+- Nusayrîlikte tenâsüh inancı temeldir
+- Anadolu Aleviliğinde Ahmed Yesevî ve Hacı Bektaş-ı Velî gibi önderler vardır
+= Nusayrîlikte ibadet bireysel ve gizlidir; cemevi geleneği Anadolu Aleviliğine aittir.
+
+# ---------- 9. ünite ----------
+? 9 | Dürzîlerin kendilerini adlandırmak için tercih ettikleri ad hangisidir?
++ Muvahhidûn (ehl-i tevhid)
+- Dürzî
+- Bâtıniyye
+- Hâkimiyye
+= "Dürzî" adı Hamza b. Ali'ye isyan eden Neştekîn ed-Derezî'ye nispet olduğu için sevilmez.
+
+? 9 | Dürzîlikte ulûhiyetine inanılan Fâtımî halifesi kimdir?
++ Hâkim Biemrillah
+- Muiz Li-dînillâh
+- Müstansır Billâh
+- Ubeydullah el-Mehdî
+= Hâkim 411/1021'de esrarengiz biçimde kaybolmuş, bu durum gaybet olarak yorumlanmıştır.
+
+? 9 | Dürzî inancında Küllî Akıl kabul edilen ve mezhebi kurumsallaştıran kişi kimdir?
++ Hamza b. Ali
+- Neştekîn ed-Derezî
+- Hasan es-Sabbâh
+- Muhammed b. Nusayr
+= Hamza b. Ali beş hudûdun ilki olan Küllî Akıl'dır.
+
+? 9 | Dürzîlerin kutsal metinleri hangisidir?
++ Resâilü'l-hikme
+- Kitâbü'l-Mecmû'
+- Kitâbü'l-Celve
+- el-Beyân
+= Resâilü'l-hikme (el-Hikmetü'ş-şerîfe) 111 risaleden oluşur.
+
+? 9 | Dürzîlerin yedi esası arasında hangisi yer almaz?
++ Beş vakit namaz kılmak
+- Doğru sözlülük
+- Din kardeşlerini korumak
+- Hâkim'in hüküm ve fiillerine rıza göstermek
+= Dürzîlikte İslam'ın beş şartı ilke olarak yoktur; yedi esas bunların yerine konmuştur.
+
+# ---------- 10. ünite ----------
+? 10 | Yezîdîlerin kutsal saydığı ve kıble edindiği türbe kime aittir?
++ Adî b. Müsâfir
+- Hasan-ı Basrî
+- I. Yezîd
+- Şeyh Fahreddin
+= Adî b. Müsâfir'in Musul'un kuzeyindeki Lâliş'teki türbesi Yezîdîlerin hac yeridir.
+
+? 10 | Yezîdî inancında Âdem'e secde etmeyip sonra affedilen ve dünyanın yönetimi kendisine bırakılan baş melek kimdir?
++ Melek Tâvûs
+- Cebrâil
+- İsrâfil
+- Nurael
+= Melek Tâvûs tavus kuşu biçiminde tasavvur edilir.
+
+? 10 | Yezîdîlerin iki kutsal metni hangileridir?
++ Kitâbü'l-Celve ve Mushaf-ı Reş
+- Resâilü'l-hikme ve Kitâbü'l-Mecmû'
+- el-Beyân ve Kitâbü'l-Akdes
+- Buyruk ve Makâlât
+= Yaltkaya'ya göre bu metinler sonradan yazılıp Şeyh Adî çevresine nispet edilmiştir.
+
+? 10 | Adeviyye tarikatının Yezîdîliğe dönüşmesi hangi şeyh döneminde başlamıştır?
++ Şeyh Hasan
+- Şeyh Adî
+- Şeyh Fahreddin
+- Şeyh Şemseddin
+= Şeyh Hasan döneminde Yezîd ve Şeyh Adî etrafında gulüv ortaya çıkmıştır.
+
+? 10 | Yezîdîlikte aşağıdakilerden hangisi yasaklar arasında değildir?
++ Beyaz giyinmek
+- Mavi renk giymek
+- "Şeytan" kelimesini söylemek
+- Marul yemek
+= Beyaz, Yezîdîlerin kutsal saydığı renklerdendir.
+
+? 10 | Yezîdî toplumunda en üst kademede bulunan ve maddi-manevi otoriteyi temsil eden kişi kimdir?
++ Emîr (mîr)
+- Pîr
+- Kavvâl
+- Mürid
+= Emîr, Yezîd ve Şeyh Hasan'dan geldiğine inanılan aileden gelir.
+
+# ---------- 11. ünite ----------
+? 11 | Bâbîliğin ortaya çıktığı tasavvufî hareket hangisidir?
++ Şeyhîlik
+- Nakşibendîlik
+- Ni'metullâhîlik
+- Bektaşîlik
+= Şeyhîliğin kurucusu Ahmed el-Ahsâî, halefi Seyyid Kâzım Reştî'dir; Bâb onun öğrencisidir.
+
+? 11 | Mirza Ali Muhammed 1844'te kendisi için hangi unvanı kullanmıştır?
++ Bâb
+- Bahâullah
+- Subh-i Ezel
+- Abdülbahâ
+= Bâb, gaib imama açılan kapı demektir; daha sonra mehdî olduğunu da iddia etmiştir.
+
+? 11 | Bâbîliğin İslam'dan ayrı bir din olduğu hangi toplantıda ilan edilmiştir?
++ Bedeşt toplantısı (1848)
+- Necib Paşa bahçesi (1863)
+- Edirne toplantısı (1864)
+- Akkâ toplantısı (1892)
+= Necib Paşa bahçesinde Bahâullah "men yuzhiruhullah" olduğunu ilan etmiştir.
+
+? 11 | Bâbîlik ve Bahâîlikte kutsal kabul edilen sayı hangisidir?
++ 19
+- 7
+- 12
+- 73
+= Yıl 19 ay, ay 19 gündür; oruç da 19 gün tutulur.
+
+? 11 | Bahâullah'ın sürgün edildiği ve 1892'de öldüğü yer neresidir?
++ Akkâ
+- Kıbrıs
+- Tebriz
+- Bağdat
+= Üvey kardeşi Mirza Yahyâ ise Kıbrıs'a sürülmüştür.
+
+? 11 | Bahâîliğin en üst idari kurumu hangisidir?
++ Umumi Adalet Evi
+- Mahallî Ruhanî Mahfil
+- Millî Ruhanî Mahfil
+- Meşriku'l-ezkâr
+= Meşriku'l-ezkâr Bahâî mâbedinin adıdır.
+
+# ---------- 12. ünite ----------
+? 12 | Kâdıyânîliğin kurucusu kimdir?
++ Mirza Gulâm Ahmed
+- Muhammed Ali Lâhûrî
+- Hakîm Nûreddin
+- Mirza Beşîrüddin Mahmud
+= Mirza Gulâm Ahmed (1839-1908) Pencap'ın Kādiyân kasabasında doğmuştur.
+
+? 12 | Mirza Gulâm Ahmed'e göre Hz. İsa hakkında hangisi doğrudur?
++ Çarmıhta ölmemiş, Keşmir'e gidip orada ölmüş ve Srinagar'a gömülmüştür
+- Göğe yükseltilmiş ve âhir zamanda inecektir
+- Çarmıhta ölmüş ve dirilmiştir
+- Mısır'da ölüp oraya gömülmüştür
+= Ona göre beklenen mesîh İsa'ya benzeyen biridir ve bu kişi kendisidir.
+
+? 12 | Gulâm Ahmed'i gerçek anlamda nebî kabul etmeyip müceddid ve vaat edilen mesîh sayan kol hangisidir?
++ Lahor kolu
+- Kādiyân kolu
+- Rabve kolu
+- Ahmediyye-i Kübrâ
+= Lahor kolunun kurucusu Muhammed Ali Lâhûrî'dir.
+
+? 12 | Pakistan parlamentosu Kâdıyânîleri hangi tarihte "İslam dışı azınlık" ilan etmiştir?
++ 7 Eylül 1974
+- 26 Mayıs 1908
+- 14 Ağustos 1947
+- 1 Aralık 1888
+= Anayasaya eklenen hükümle Hz. Muhammed'in son peygamber olduğuna mutlak inanmayanlar Müslüman sayılmamıştır.
+
+? 12 | Mirza Gulâm Ahmed'in cihad ve İngiliz yönetimi hakkındaki tutumu nedir?
++ Silahlı cihadı reddetmiş, İngiliz yönetimine bağlılığı savunmuştur
+- İngilizlere karşı silahlı cihad ilan etmiştir
+- Cihadı farz-ı ayn saymıştır
+- İngiliz yönetimini tekfir etmiştir
+= Cihadı tebliğ yoluyla yapılan bir faaliyet olarak tanımlamıştır.
+
+# ---------- 13. ünite ----------
+? 13 | Selefiyye'nin Ehl-i Sünnet içindeki karşılığı hangisidir?
++ Ehl-i Hadis
+- Ehl-i Re'y
+- Mâtürîdiyye
+- Mu'tezile
+= Selefiyye, sahabe ve tâbiînin anlayışını esas alan Ehl-i Hadis damarıdır.
+
+? 13 | Vehhâbîliğin kurucusu Muhammed b. Abdülvehhâb hangi bölgede doğmuştur?
++ Necd
+- Hicaz
+- Yemen
+- Irak
+= 1115/1703'te Necd'de doğmuş, Suud ailesiyle ittifak kurmuştur.
+
+? 13 | Birinci Suud Devleti'nin merkezi Dir'iyye'yi 1818'de ele geçiren kuvvet hangisidir?
++ Mısır valisi Mehmed Ali Paşa'nın ordusu
+- İngiliz ordusu
+- Haşimî kuvvetleri
+- İhvan teşkilatı
+= Mehmed Ali Paşa'nın ordusu 1812-1813'te Hicaz'ı geri almış, 1818'de Dir'iyye'yi ele geçirmiştir.
+
+? 13 | Şeriatla hükmetmeyen yöneticileri tekfir edip silahlı mücadeleyi savunan Selefî kol hangisidir?
++ Cihadî Selefîlik
+- İlmî (Suudi) Selefîlik
+- Siyasi Selefîlik
+- Ehl-i Hadis
+= el-Kâide ve IŞİD bu kolun örnekleridir.
+
+? 13 | 1979'da Kâbe'yi işgal eden Selefî cemaatin lideri kimdir?
++ Cüheymân el-Uteybî
+- Sefer el-Havâlî
+- Üsâme bin Lâdin
+- Ebû Mus'ab ez-Zerkāvî
+= Bu olay Suudi Selefiyyesi içindeki ilk büyük kırılma olarak değerlendirilir.
+
+? 13 | 2014 Ramazan'ında Musul Ulu Camii'nde kendisini "Müslümanların halifesi" ilan eden kimdir?
++ Ebû Bekir el-Bağdâdî
+- Eymen ez-Zevâhirî
+- Ebû Mus'ab ez-Zerkāvî
+- Molla Ömer
+= IŞİD muhaliflerini toptan tekfir etmesi yüzünden Hâricîliğe benzetilir.
+
+? 13 | Vehhâbîliğe göre tevhidin bölümleri arasında hangisi yer almaz?
++ Velâyet tevhidi
+- Rubûbiyyet tevhidi
+- Ulûhiyyet tevhidi
+- Esmâ ve sıfât tevhidi
+= Vehhâbîler şefaat ve tevessülü ulûhiyyet tevhidine aykırı görür.
+
+# ---------- 14. ünite ----------
+? 14 | İhvân-ı Müslimîn hangi yıl ve kim tarafından kurulmuştur?
++ 1928, Hasan el-Bennâ
+- 1941, Ebü'l-A'lâ el-Mevdûdî
+- 1953, Takıyyüddin en-Nebhânî
+- 1982, Hüseyin el-Husî
+= İhvân Mısır'da İsmailiye şehrinde kurulmuştur.
+
+? 14 | Cemaat-i İslâmî'nin kurucusu kimdir?
++ Ebü'l-A'lâ el-Mevdûdî
+- Seyyid Kutub
+- Hasan et-Türâbî
+- Muhammed İlyas
+= Mevdûdî'nin çağrısıyla 1941'de Lahor'da kurulmuştur; Hint alt kıtasında İhvân'ın muadili sayılır.
+
+? 14 | Yemen'deki Ensârullah (Husîler) hareketi hangi mezhebe mensuptur?
++ Zeydiyye
+- İsmâiliyye
+- İmâmiyye
+- Vehhâbîlik
+= Hareket yöntemlerinde İran devrimini ve Hizbullah'ı model almıştır.
+
+? 14 | Tebliğ Cemaati'nin kurucusu kimdir?
++ Muhammed İlyas Kandehlevî
+- Reşîd Ahmed Gangûhî
+- Şah Veliyyullah Dihlevî
+- Ahmed Rıza Han
+= Cemaat 1920'lerin sonunda Mevat bölgesinde faaliyete başlamıştır.
+
+? 14 | Tebliğ Cemaati'nin altı prensibi arasında yer alan "tefrîğ-i vakt" ne demektir?
++ Tebliğe düzenli olarak vakit ayırmak
+- Siyasete katılmak
+- Medrese açmak
+- Mezhep taklidini terk etmek
+= Diğer prensipler kelime-i tevhid, namaz, ilim-zikir, ikram ve ihlastır.
+
+? 14 | Tâlibân hareketi hangi medrese geleneğinden doğmuştur?
++ Diyobendiyye
+- Barelviyye
+- Nedvetü'l-Ulemâ
+- Ehl-i Hadis
+= Pakistan'daki Diyobendî medreselerinde okuyan talebeler 1996'da Kabil'i alıp Afganistan İslam Emirliği'ni kurmuştur.
+
+? 14 | Lübnan Hizbullahı ile ilgili hangisi yanlıştır?
++ Sünnî bir harekettir
+- İran devriminin Lübnan'daki en büyük başarısı sayılır
+- İlk hedefi İsrail işgalini sona erdirmekti
+- 1992'den beri parlamentoda temsil edilir
+= Hizbullah Güney Lübnan'daki Şiî nüfus arasında doğmuştur.
+
+# ---------- 15. ünite ----------
+? 15 | İhyâ, tecdîd ve ıslah kavramlarından "düzeltme, iyileştirme" anlamına gelen hangisidir?
++ Islah
+- İhyâ
+- Tecdîd
+- İçtihat
+= İhyâ diriliş, tecdîd yenilenme anlamındadır.
+
+? 15 | 1877'de Aligarh'ta Batı standartlarında kolej kuran İslamcı kimdir?
++ Seyyid Ahmed Han
+- Cemâleddin Efgânî
+- Muhammed Abduh
+- Mevdûdî
+= Kolej 1920'de üniversiteye dönüşmüştür.
+
+? 15 | Efgânî ile Abduh'un 1883-1884'te Paris'te çıkardıkları dergi hangisidir?
++ el-Urvetü'l-vüskā
+- el-Menâr
+- Sırât-ı Müstakîm
+- Tercümân
+= el-Menâr Reşîd Rızâ'nın, Tercümân Gaspıralı'nın yayın organıdır.
+
+? 15 | "Dilde, fikirde, işte birlik" ilkesini savunan Cedîdcilik öncüsü kimdir?
++ İsmail Gaspıralı
+- Mûsâ Cârullah
+- Şehâbeddin Mercânî
+- Mahmud Behbudi
+= Gaspıralı 1883'te Tercümân'ı çıkarmış, 1884'te Bahçesaray'da ilk usûl-i cedîd mektebini açmıştır.
+
+? 15 | Rahmet-i İlâhiyye Bürhanları adlı eserinde âhirette azabın ebedî olmadığını savunan ve Mustafa Sabri Efendi tarafından eleştirilen âlim kimdir?
++ Mûsâ Cârullah Bigiyef
+- İsmail Gaspıralı
+- Muhammed Abduh
+- Fazlurrahman
+= Mûsâ Cârullah 1949'da Kahire'de vefat etmiştir.
+
+? 15 | Kur'an'ı tek kaynak kabul edip hadisleri büyük ölçüde dışlayan modernist ekole ne ad verilir?
++ Metinselci modernizm (Kur'âniyyûn)
+- Tarihselci modernizm
+- Gelenekselcilik
+- Siyasal ıslahatçılık
+= Seyyid Ahmed Han, Tevfik Sıdkî ve Gulâm Ahmed Perviz bu ekolün tanınmış isimlerindendir.
+
+? 15 | Kur'an hükümlerinin nüzul bağlamından evrensel ilkeler çıkarılıp günümüze taşınması gerektiğini savunan tarihselci düşünür kimdir?
++ Fazlurrahman
+- Reşad Halîfe
+- Ahmed Subhî Mansûr
+- René Guénon
+= Fazlurrahman sünneti de "mutlak sünnet" ve "yaşayan sünnet" diye ikiye ayırır.
+
+? 15 | Gelenekselciliğin (traditionalism) kurucusu kabul edilen isim kimdir?
++ René Guénon
+- Fazlurrahman
+- Ali Şerîatî
+- Muhammed Arkoun
+= Guénon (Abdülvâhid Yahyâ) 1912'de Müslüman olmuştur; Schuon ve Seyyid Hüseyin Nasr bu ekolün diğer temsilcileridir.
+
+# ---------- 16. ünite ----------
+? 16 | Mu'tezile'nin kurucusu kabul edilen ve büyük günahkâr meselesinde Hasan-ı Basrî'den ayrılan kişi kimdir?
++ Vâsıl b. Atâ
+- Amr b. Ubeyd
+- Ebü'l-Hüzeyl el-Allâf
+- Bişr b. Mu'temir
+= Vâsıl'a göre büyük günah işleyen ne mümin ne kâfirdir, ikisi arasında bir yerdedir.
+
+? 16 | Mu'tezile'nin beş esası arasında hangisi yer almaz?
++ İmamet
+- Tevhid
+- Adl
+- el-Menzile beyne'l-menzileteyn
+= Beş esas: tevhid, adl, va'd-vaîd, el-menzile beyne'l-menzileteyn, emr-i bi'l-ma'rûf.
+
+? 16 | Mu'tezile'nin beş esasını el-Usûlü'l-hamse adlı kitabıyla sistemleştiren âlim kimdir?
++ Ebü'l-Hüzeyl el-Allâf
+- Câhız
+- Nazzâm
+- Ebû Ali el-Cübbâî
+= Allâf'tan sonra Basra okulunun en meşhur isimleri Nazzâm ve Câhız'dır.
+
+? 16 | Bağdat Mu'tezile okulunun kurucusu kimdir?
++ Bişr b. Mu'temir
+- Vâsıl b. Atâ
+- Kādî Abdülcebbâr
+- Ebû Hâşim el-Cübbâî
+= Öğrencileri arasında Sümâme b. Eşres, Ebû Mûsâ el-Murdâr ve Ahmed b. Ebû Duâd vardır.
+
+? 16 | Kur'an'ın mahluk olduğunu kabul etmeyenlere Abbâsîler döneminde uygulanan baskıya ne ad verilir?
++ Mihne
+- Fitne
+- Takiyye
+- İsti'râz
+= Mihne Me'mûn, Mu'tasım ve Vâsık dönemlerinde uygulanmıştır.
+
+? 16 | Basra ve Bağdat Mu'tezile okulları arasındaki farklardan hangisi doğrudur?
++ Bağdatlılar Hz. Ali'yi sahabenin en üstünü sayıp mefdulün imametini kabul eder, Basralılar imamette efdaliyeti benimser
+- Basralılar siyasete daha yakın, Bağdatlılar siyasetten uzaktır
+- Basralılar beş esası reddeder
+- Bağdatlılar Kur'an'ın kadim olduğunu savunur
+= Basra okulu siyasetten uzak dururken Bağdat okulu Abbâsî başkentinde siyasete daha fazla karışmıştır.

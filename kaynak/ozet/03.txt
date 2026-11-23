@@ -1,0 +1,34 @@
+# Eş'ariyye · Özet
+> Ünitenin özü: Eş'arî kimdir, Mu'tezile'den neden ayrıldı, Eş'arîlik nasıl gelişti, neyi savunur ve Mâtürîdîlikten nerede ayrılır?
+
+## Ebü'l-Hasan el-Eş'arî
+- **Ebü'l-Hasan Ali b. İsmail el-Eş'arî** (260-324/873-936), sahabi Ebû Mûsâ el-Eş'arî'nin soyundandır; Basra'da doğdu, Bağdat'ta öldü.
+- Uzun süre Mu'tezilî **Ebû Ali el-Cübbâî**'nin öğrencisi oldu. 300/912 civarında Basra Camii'nde Mu'tezile'den ayrıldığını ve Ahmed b. Hanbel'in yolunu benimsediğini ilan etti.
+- Ayrılığın meşhur gerekçesi **"üç kardeş" (ihve-i selâse)** tartışmasıdır: Mümin, kâfir ve küçük yaşta ölen üç kardeşin âhiretteki durumu sorulduğunda "aslah" ilkesinin tutarsızlığı ortaya çıkmıştır.
+- **Eserleri:** **Makâlâtü'l-İslâmiyyîn** (mezhepler tarihinin temel kaynaklarından), **el-İbâne** (Hanbelî çizgiye yakın), **el-Lüma'** (kelâm sisteminin ana eseri), **İstihsânü'l-havz fî ilmi'l-kelâm** (kelâmı savunan risale).
+## Eş'arîliğin Gelişimi
+| Dönem | Temsilciler | Özelliği
+| Mütekaddimûn | Bâkıllânî ("ikinci kurucu"), İbn Fûrek, Ebû İshak el-İsferâyînî, Abdülkāhir el-Bağdâdî, Cüveynî | Cevher-araz anlayışı, cedel metodu; felsefe ve Aristo mantığına mesafe
+| Müteahhirûn | Gazzâlî, Şehristânî, Fahreddin er-Râzî, Âmidî, Beyzâvî, Îcî | Mantık ve felsefenin kelâma girmesi; "felsefî kelâm"
+| Şerh-haşiye | Teftâzânî, Seyyid Şerîf el-Cürcânî, Senûsî | Şerh ve haşiye geleneği
+! Eş'arîlik Selçuklular ve Eyyûbîlerin desteğiyle yayıldı; Tuğrul Bey döneminde Vezir Kündürî'nin baskısıyla sekteye uğradı, Alparslan ve Nizâmülmülk'ün Nizâmiye medreseleriyle güçlendi. Muvahhidler (İbn Tûmert) eliyle Kuzey Afrika ve Endülüs'e yayıldı.
+## Temel Görüşleri
+- **Bilgi:** Duyular, akıl ve haber; akıl nakle hizmet eder.
+- **Sıfatlar:** Sıfatlar "zatın ne aynı ne gayrı"dır. Zatî sıfatlar ezelî; **fiilî sıfatlar hâdistir** (kudretin taallukudur). Haberî sıfatlar (yed, vech, istivâ) erken dönemde te'vilsiz, sonra te'vil yoluyla açıklanmıştır. **Kelâm-ı nefsî** ezelî, lafızlar hâdistir.
+- **Kader ve fiiller:** Fiili yaratan Allah'tır; kulun hâdis kudretinin fiilde etkisi yoktur, kul fiili **kesbeder**.
+- **Allah'ın fiilleri:** Hikmet ve gayeye bağlı değildir; Allah'a hiçbir şey vacip değildir.
+- **Nübüvvet:** En önemli delil mucizedir.
+- **Âhiret:** Kabir ve âhiret halleri zahirî anlamıyla kabul edilir.
+- **İman:** Kalple tasdiktir.
+- **İmamet:** İmam seçmek farzdır; ehlü'l-hal ve'l-akd tarafından seçilir, Kureyşli olması şarttır.
+## Eş'arîlik ile Mâtürîdîlik
+| Konu | Mâtürîdîlik | Eş'arîlik
+| Cüz'î irade | Müstakildir | Müstakil değildir
+| Hüsün-kubh | Akılla bilinebilir | Ancak şer'le bilinir
+| Ma'rifetullah | Tebliğ olmasa da akılla vaciptir | Şer'an vaciptir
+| Tekvin | Ezelî, müstakil sıfattır | Kudretin taallukudur
+| Teklîf-i mâ lâ yutâk | Caiz değildir | Caizdir
+| İman | Artmaz, eksilmez | Artar ve eksilir
+| Mürtedin amelleri | Tekrar iman edince geri dönmez | Geri döner
+| Kadın peygamber | Olamaz | Olabilir
+¶ Eş'arîlik Irak'ta doğmuş; Şâfiî ve Mâlikî çevrelerde, Hicaz, Mısır, Şam ve Kuzey Afrika'da yaygınlaşmıştır.

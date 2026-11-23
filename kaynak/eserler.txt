@@ -1,0 +1,45 @@
+# Eser–müellif listesi. Biçim: ünite | bölüm başlığı | eser | müellif | not
+1 | 73 Fırka Hadisi ve Fırkaların Tasnifine Etkisi | Makâlâtü'l-İslâmiyyîn | Ebü'l-Hasan el-Eş'arî | Fırkaları on ana gruba ayırır; 73 fırka hadisinden söz etmez
+1 | Mezheplerin Sayısı ve Tasnifi | el-Fark beyne'l-fırak | Abdülkāhir el-Bağdâdî | 73'lü şematik tasnifin örneği
+1 | Mezheplerin Sayısı ve Tasnifi | Fıraku'ş-Şîa | Nevbahtî | Kronolojik tasnifin örneği
+1 | Mezheplerin Sayısı ve Tasnifi | el-Makâlât ve'l-fırak | Sa'd b. Abdullah el-Kummî | Kronolojik tasnifin örneği
+1 | 73 Fırka Hadisi ve Fırkaların Tasnifine Etkisi | Faysalü't-tefrika | Gazzâlî | Tekfirin sınırları
+1 | 73 Fırka Hadisi ve Fırkaların Tasnifine Etkisi | el-Hûru'l-'în | Neşvânü'l-Himyerî | Zeydî müellif
+2 | İmam Mâtürîdî'nin Hayatı ve İlmî Kişiliği | Kitâbü't-Tevhîd | Ebû Mansûr el-Mâtürîdî | Tek nüshası Cambridge'dedir
+2 | İmam Mâtürîdî'nin Hayatı ve İlmî Kişiliği | Te'vîlâtü'l-Kur'ân | Ebû Mansûr el-Mâtürîdî | Tefsir
+2 | İmam Mâtürîdî'nin Hayatı ve İlmî Kişiliği | Tebsıratü'l-edille | Ebü'l-Muîn en-Nesefî | Mâtürîdîliğin ikinci temel kaynağı
+2 | Mâtürîdîlik ve Tarihî Gelişimi | es-Sevâdü'l-a'zam | Hakîm es-Semerkandî | 
+2 | Hanefî Geleneğindeki Yeri | İrşâdü'l-mühtedî | Ebü'l-Hasan er-Rüstüfağnî | 
+2 | Dönemlere Göre Mâtürîdî Âlimleri ve Eserleri | el-Akāid | Necmeddin en-Nesefî | 
+2 | İmam Mâtürîdî'nin Görüşleri (Kitâbü't-Tevhîd Esas Alınarak) | el-Müsâyere | İbnü'l-Hümâm | Eş'arî-Mâtürîdî karşılaştırması
+2 | Dönemlere Göre Mâtürîdî Âlimleri ve Eserleri | el-Kasîdetü'n-nûniyye | Hızır Bey | 
+2 | Dönemlere Göre Mâtürîdî Âlimleri ve Eserleri | İşârâtü'l-merâm | Beyâzîzâde Ahmed Efendi | 
+2 | Dönemlere Göre Mâtürîdî Âlimleri ve Eserleri | Muvazzah İlm-i Kelâm | Ömer Nasuhi Bilmen | Modern dönem
+2 | Dönemlere Göre Mâtürîdî Âlimleri ve Eserleri | Yeni İlm-i Kelâm | İsmail Hakkı İzmirli | Modern dönem
+2 | Dönemlere Göre Mâtürîdî Âlimleri ve Eserleri | Tenkīhu'l-kelâm | Abdüllatif Harpûtî | Modern dönem
+2 | Dönemlere Göre Mâtürîdî Âlimleri ve Eserleri | Üss-i İslâm | Filibeli Ahmed Hilmi | Modern dönem
+3 | Ebü'l-Hasan el-Eş'arî'nin Hayatı ve İlmî Kişiliği | el-İbâne an usûli'd-diyâne | Ebü'l-Hasan el-Eş'arî | Ahmed b. Hanbel çizgisine yakın
+3 | Ebü'l-Hasan el-Eş'arî'nin Hayatı ve İlmî Kişiliği | el-Lüma' | Ebü'l-Hasan el-Eş'arî | Kelâm sisteminin ana eseri
+3 | Ebü'l-Hasan el-Eş'arî'nin Hayatı ve İlmî Kişiliği | İstihsânü'l-havz fî ilmi'l-kelâm | Ebü'l-Hasan el-Eş'arî | Kelâmın savunusu
+3 | Eş‘arî ve Eş‘arîlik: Genel Bilgi | Risâle ilâ ehli's-Sağr | Ebü'l-Hasan el-Eş'arî | 
+3 | Eş‘arîliğin Gelişimi ve Önemli Temsilcileri | er-Risâle | Ebü'l-Kāsım el-Kuşeyrî | Eş'arîliği tasavvufla yakınlaştırır
+3 | Eş‘arîliğin Gelişimi ve Önemli Temsilcileri | Nihâyetü'l-ikdâm fî ilmi'l-kelâm | Şehristânî | 
+3 | Eş'arîliğin Teşekkül Süreci | Şerhu'l-Mevâkıf | Seyyid Şerîf el-Cürcânî | Şerh-haşiye dönemi
+3 | Eş'arîliğin Teşekkül Süreci | Tehâfütü'l-felâsife | Gazzâlî | Aristocu geleneğin eleştirisi
+3 | Eş‘arî'ye Yöneltilen Eleştiriler | Mesâlibü İbn Ebî Bişr | Hasan b. Ali el-Ahvâzî | Eş'arî'ye yöneltilen eleştiri
+5 | İmamiyye / İsnâaşeriyye Şîası | Evâilü'l-makâlât | Şeyh Müfîd | 
+8 | Yazılı Edebiyat (Literatür) | el-Bâkûretü's-Süleymâniyye | Süleyman Efendi (Adanalı) | Nusayrî sırlarını ifşa eden eser
+8 | Nusayriliğin Yazılı Edebiyatı (Literatür) | Mecmûu'l-a'yâd | Ebû Saîd et-Taberânî | Nusayrî bayramları
+10 | Ortaya Çıkışı ve Tarihçesi | Şerefnâme | Şeref Han Bitlisî | Yezîdîler hakkındaki temel bilgiler
+10 | Ortaya Çıkışı ve Tarihçesi | er-Red ale'r-Râfıza ve'l-Yezîdiyye | İbn Cemîl | 
+11 | Bahâîliğin Kuruluşu ve Gelişimi | Kitâbü'l-Akdes | Bahâullah | Bahâîliğin temel kitabı
+12 | Kadiyanilik'in Teşekkülü ve Gelişim Süreci | Berâhîn-i Ahmediyye | Mirza Gulâm Ahmed | 
+15 | Cedîdcilik | Tercümân | İsmail Gaspıralı | Gazete (1883)
+15 | Islah Kavramı ve Modern Islah Hareketi | el-Menâr | Reşîd Rızâ | Dergi (1898) ve tefsir
+15 | Mûsâ Cârullah Bigiyef | Rahmet-i İlâhiyye Bürhanları | Mûsâ Cârullah | 
+15 | Mûsâ Cârullah Bigiyef | Hâtun | Mûsâ Cârullah | 
+15 | Mûsâ Cârullah Bigiyef | Kitâbü's-Sünne | Mûsâ Cârullah | Kur'âniyyûn'a cevap
+15 | İhya Hareketlerinin Doğuşu | el-Cevâhir | Tantâvî Cevherî | Bilimsel tefsir
+15 | İslam Modernizmi | Islamic Methodology in History | Fazlurrahman | 
+16 | Mu'tezîlenin Kolları | Şerhu'l-Usûli'l-hamse | Kādî Abdülcebbâr | 
+16 | Mu'tezîlenin Kolları | el-Muğnî | Kādî Abdülcebbâr | 

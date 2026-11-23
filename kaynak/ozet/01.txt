@@ -1,0 +1,34 @@
+# İslam Mezhepleri Tarihine Giriş · Özet
+> Ünitenin özü: mezhepler tarihi nedir, nasıl çalışılır, mezhep nasıl tanımlanır ve mezhepler neden doğmuştur?
+
+## Tanım, Konu, Amaç ve Metot
+: İslam Mezhepleri Tarihi = Siyasi ve itikadî gayelerle ortaya çıkmış İslam düşünce ekollerini; doğdukları ortam, doğuş sebepleri, teşekkül süreçleri, fikirleri, literatürü ve yayıldığı bölgelerle birlikte tarafsız ve betimleyici biçimde inceleyen ilim dalı.
+- **Konusu:** Fıkhî değil siyasi ve itikadî ekollerdir; yalnız tarihte kalanları değil günümüz akımlarını da kapsar.
+- **Bir mezhep incelenirken bakılanlar:** isimlendirme, doğuş sebepleri, teşekkül süreci, doğduğu ve yayıldığı yer, kurucu ve ilk destekçiler, temel fikirler, yazılı kaynaklar, alt kollar, diğer mezheplerle ilişki, günümüzdeki durum ve İslam düşüncesine katkı.
+- **Amacı:** Dinin farklı anlaşılmasının sebeplerini ortaya koymak; mezheplerin beşerî oluşumlar olduğunu ve dinin yerine konamayacağını göstermek.
+- **Metodu:** Betimleyici (deskriptif) yöntem; görüşleri doğru-yanlış diye yargılamak yerine "var olanın resmini çizmek". **Fikir-hadise irtibatı** ve **zaman-mekân bağlamı** gözetilir.
+- **Diğer ilimlerle ilişkisi:** Kelam savunmacı ve hüküm verici, mezhepler tarihi tasvirîdir. İslam tarihi devletlerin, mezhepler tarihi gruplaşmaların tarihini inceler. Dinler tarihiyle hem tarihsel hem yöntemsel bağı vardır.
+## Temel Kavramlar
+| Kavram | Anlamı
+| Mezhep | Gidilen yol; otorite âlimlerin görüşleri veya sistemi
+| Fırka | Ortak düşünce etrafında toplanan zümre
+| Makâlât | Görüşler; fırkaların görüşlerini derleyen eserler
+| Milel ve nihal | Dinler ve mezhepler
+| Ehl-i ehvâ / ehl-i bid'at | Dayanağı zayıf görülen gruplar (olumsuz değer yargısı)
+## Mezhep Olmanın Ölçütleri ve Tasnif
+¶ **İbn Hazm** tevhid, kader, iman-küfür, imamet ve sahabenin fazileti konularında farklı görüşü; **Şehristânî** ise dört ana kaidede (tevhid-sıfatlar; kader-adalet; va'd-vaîd, esmâ ve ahkâm; akıl-sem', risalet ve imamet) farklılaşmayı ölçüt alır. Buna göre bir hareketin mezhep sayılması için **sistemli bir teolojisi, yazılı literatürü, toplumsal tabanı ve fıkhî/amelî boyutu** olmalıdır.
+¶ Tasnifler **tematik** (itikadî, siyasi, fıkhî), **kronolojik**, **şematik** (73 fırkaya göre) ve **alfabetik** olabilir.
+## 73 Fırka Hadisi
+- Hiçbir rivayeti Buhârî, Müslim ve Nesâî'de yoktur.
+- 73'ü gerçek sayanlar (Malatî, Bağdâdî, İsferâyînî, Şehristânî vb.) 4×18, 6×12, 3×24 gibi formüllere başvurmuş; çokluk ifadesi sayanlar (İbnü'l-Cevzî, Râzî, Devvânî, Şâtıbî) sayıyı mecaz kabul etmiştir.
+- İbn Hazm ve İbnü'l-Vezîr hadisi (özellikle "biri hariç hepsi cehennemde" ilavesini) sahih görmez; Eş'arî Makâlât'ta hadise hiç değinmez.
+- Goldziher'e göre hadis, İslam'ın önceki dinlere göre üstünlüğünü anlatmak için söylenmiştir.
+## İlk İhtilaflar
+¶ Hz. Peygamber döneminde fırkalaşma yoktur; çünkü vahiy devam etmekte ve Peygamber'in otoritesi her meseleyi çözmektedir. Yine de **kalem-kâğıt (kırtas) hadisesi, Üsâme ordusu, Peygamber'in vefatında şüphe, defin yeri ve hilafet meselesi** sonraki tartışmaların ilk nüveleri sayılır. Hz. Ebû Bekir döneminde **Peygamber'in mirası (Fedek), zekât vermeyenler ve Kur'an'ın toplanması** konularında ihtilaf çıkmış ama fitneye dönüşmemiştir. Hz. Osman döneminde başlayan siyasi karışıklıklar fırkalaşmanın zeminini hazırlamıştır.
+## Mezheplere Ayrılmanın Sebepleri
+| Sebep | Örnekler
+| Dinî | Nübüvvet döneminden uzaklaşma; nasların üslubu (muhkem-müteşâbih), sübut ve delaleti; soyut konular (sıfatlar, kader); metin yorumunda metot farkı; fikir hürriyeti; kader sorunu
+| Psikolojik | Karakter farkları, farklı niyet ve zihniyetler, liderlik tutkusu
+| Sosyal | Irkçılık ve kabilecilik (Arap-mevâlî), ekonomik farklılaşma ve lüks
+| Siyasi | İmamet-hilafet tartışması; Cemel, Sıffîn ve iç savaşlar; büyük günah meselesi
+| Dış | Diğer din ve kültürlerle karşılaşma, Yahudilik ve Hristiyanlığın etkisi; tercüme faaliyetleri (en çok Mu'tezile etkilenmiştir)

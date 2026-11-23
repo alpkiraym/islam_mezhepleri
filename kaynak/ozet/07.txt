@@ -1,0 +1,31 @@
+# İsmâiliyye · Özet
+> Ünitenin özü: İsmâiliyye nasıl doğdu, setr devrinde nasıl örgütlendi, Fâtımîlerle nasıl iktidara geldi, hangi kollara ayrıldı ve bâtınî doktrini neyi savunur?
+
+## Adlar ve Doğuş
+| Ad | Sebebi
+| İsmâiliyye | Ca'fer es-Sâdık'tan sonra oğlu İsmail'i imam kabul ettikleri için
+| Bâtıniyye | Nasların zahirinin ardında masum imamın bildiği bâtınî anlamlar bulunduğunu savundukları için
+| Karâmita (Karmatîler) | Kûfeli dâî Hamdân Karmat'a nispetle
+| Ta'limiyye | Hakikatin ancak masum imamın öğretmesiyle (ta'lîm) bilinebileceğini söyledikleri için
+| Seb'iyye | Sistemlerini yedi sayısı üzerine kurdukları için
+¶ Ca'fer es-Sâdık'ın vefatıyla (148/765) imametin İsmail'e mi Mûsâ el-Kâzım'a mı geçtiği tartışıldı. İsmail babasından önce ölmüştü. Bir grup onun ölmediğini, takiyye gereği ölmüş gibi gösterildiğini söyledi; çoğunluk (**Mübârekiyye**) ise imametin İsmail'in oğlu **Muhammed b. İsmail**'e geçtiğini kabul etti. Ebü'l-Hattâb ve Hattâbiyye çevresi de fırkanın oluşumunda etkili oldu.
+## Setr Devri ve Fâtımîler
+- **Setr (gizlilik) devri:** Muhammed b. İsmail'den Ubeydullah el-Mehdî'nin zuhuruna (296/909) kadar imamlar gizli kaldı; hareketi **dâîler** yönetti. Kûfe'de Hamdân Karmat ve Abdân, Yemen'de İbn Havşeb ve Ali b. Fazl, Kuzey Afrika'da Ebû Abdullah eş-Şîî, Bahreyn'de Ebû Saîd el-Cennâbî faaliyet gösterdi.
+- **Bölünme:** Ubeydullah'ın imamet iddiasını kabul etmeyen **Karmatîler** ayrıldı ve Bahreyn'de devlet kurdu.
+- **Fâtımî Devleti:** 909'da Kuzey Afrika'da kuruldu; Halife **Muiz** 969'da Mısır'ı aldı.
+- **Hâkim Biemrillah** döneminde ilahlık iddiaları **Dürzîliği** doğurdu.
+- **Nizâr-Müsta'lî ayrılığı (487/1094):** Müstansır'ın ölümünden sonra büyük oğul **Nizâr** yerine vezir Efdal'in desteklediği **Müsta'lî** halife yapıldı. Nizârîler Hasan Sabbâh önderliğinde **Alamut**'u merkez edindi (1164'te Hasan Alâ Zikrihisselâm "kıyamet" ilan edip şeriatı kaldırdı). Müsta'lîler ise Tayyibî kolu ile Yemen ve Hindistan'da (**Bohralar**) devam etti.
+## Doktrin
+- **Zahir-bâtın ayrımı ve te'vil:** Her zahirin bir bâtını vardır; bâtınî anlamı imam ve onun yetkilendirdiği dâîler bilir.
+- **İmamet ve velâyet:** Dinin aslı imama iman ve itaattir; imam masumdur, ilâhî nur imamlar arasında intikal eder.
+- **Nâtık-sâmit (esas):** Her devir bir nâtık peygamberle başlar (Âdem, Nûh, İbrâhim, Mûsâ, İsa, Muhammed), yanında bir sâmit/vasî bulunur (Şît, Sâm, İsmail, Hârûn, Şem'un, Ali); yedinci nâtık **Kāim**'dir.
+- **Sayıların kutsallığı ve yedi devir.**
+- **Kozmoloji:** İlk dönemde "kûnî" ve "kader" kavramlarına dayanan anlatı, Fâtımîler döneminde Yeni Eflatuncu sudûr nazariyesine dönüştü.
+- **Davet hiyerarşisi:** nâtık, esas, imam, hüccet, bâb, dâî-i belâğ, dâî-i mutlak, dâî-i mahdûd, me'zûn-i mutlak, me'zûn-i mahdûd.
+## Nizârî ve Müsta'lî Karşılaştırması
+| Konu | Nizârîler | Müsta'lîler
+| İmam | Yaşayan, hazır imam (Ağa Han) | Gizli imam (Tayyib), yerine dâî-i mutlak
+| Namaz | İmamın bilgisine ulaşmak; dua denilen üç vakit | Günde üç vakit namaz
+| Hac | Dönemin imamını ziyaret | Mekke'ye hac
+| Zekât | İmama verilen pay | Dâîler tarafından toplanır
+¶ **Günümüz:** Nizârîler (Ağa Han cemaati) Hindistan, Pakistan, Afganistan, Pamir, İran ve Batı'da; Müsta'lî Bohralar Hindistan ve Yemen'de yaşar.

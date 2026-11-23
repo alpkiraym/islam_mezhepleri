@@ -1,0 +1,34 @@
+# Ehl-i Sünnet ve Mâtürîdiyye · Özet
+> Ünitenin özü: Ehl-i Sünnet kimdir, nasıl oluşmuştur, hangi kollara ayrılır; Mâtürîdî kimdir ve Mâtürîdîlik neyi savunur?
+
+## Ehl-i Sünnet: Ad ve Oluşum
+- **Ad:** "Sünnet ve cemaat taraftarları" demektir. Sünnet Hz. Peygamber'in yolunu, cemaat sahabe ile ilk nesillerin müctehidlerini ve onlara uyan çoğunluğu ifade eder. Ashâbü'l-hadis, ehlü'l-hak, fırka-i nâciye, es-sevâdü'l-a'zam gibi adlarla da anılır.
+- **Muhaliflerin verdiği adlar:** Mu'tezile onlara kader görüşü yüzünden **Mücbire**, sıfatları kabul ettikleri için **Müşebbihe** gibi adlar vermiştir.
+- **Sünnî** kelimesi I. yüzyılın sonlarında ortaya çıkmıştır. Ehl-i Sünnet bir fırka değil, ana gövdedir; ayrılan gruplara karşı kimliğini zamanla sistemleştirmiştir.
+- **Oluşum:** Hz. Osman'ın şehadeti, Cemel, Sıffîn ve tahkim olayları ile Hâricî, Şîa, Kaderiyye ve Mu'tezile'nin ortaya çıkışı, ana çoğunluğun kendini tanımlamasını gerekli kıldı. Hasan-ı Basrî, Ebû Hanîfe, Mâlik, Şâfiî ve Ahmed b. Hanbel bu zihniyetin oluşumunda belirleyici oldu.
+## Ehl-i Sünnet'in Ekolleri
+| Ekol | Kısaca
+| Ehl-i Sünnet-i Hâssa (Selefiyye / Ehl-i Hadis) | Nasları te'vil, teşbih ve ta'tîl olmadan kabul eder; Ahmed b. Hanbel öncüdür.
+| Ehl-i Sünnet-i Âmme: Mâtürîdiyye | Ebû Hanîfe çizgisinde, akla geniş yer veren kelâm ekolü; Hanefîlerin itikadî mezhebi.
+| Ehl-i Sünnet-i Âmme: Eş'ariyye | Nakli akılla destekleyen kelâm ekolü; çoğunlukla Şâfiî ve Mâlikîlerin itikadî mezhebi.
+¶ Ehl-i Sünnet'in kapsamı konusunda görüşler farklıdır: Bazı Selefî âlimler yalnız Selefiyye'yi, bazı Mâtürîdîler (Pezdevî, Nesefî) yalnız Mâtürîdiyye'yi gerçek Ehl-i Sünnet sayar; Sübkî ise ehl-i hadis, ehl-i nazar ve ehl-i keşf olarak üçlü bir taksim yapar.
+## İmam Mâtürîdî
+- **Ebû Mansûr Muhammed b. Muhammed el-Mâtürîdî** (ö. 333/944), Semerkand'ın Mâtürîd köyünde doğdu, Semerkand'da vefat etti ve Çâkerdîze mezarlığına defnedildi.
+- Hanefî mezhebinin üçüncü kuşak âlimlerindendir; Ebû Nasr el-İyâzî ve Ebû Bekir el-Cüzcânî'den okudu. "İmâmü'l-hüdâ", "Reîsü Ehli's-Sünne" gibi lakaplarla anılır.
+- **Günümüze ulaşan eserleri:** **Kitâbü't-Tevhîd** (tek nüsha Cambridge'de) ve **Te'vîlâtü'l-Kur'ân**.
+- **İhmal edilme sebepleri:** Bağdat'tan uzak yaşaması, bölgenin istilalarla tahribi, Arap tarihçilerin ilgisizliği ve Eş'arîliğin nüfuzu.
+- Ekolün sistemleşmesi **Ebü'l-Muîn en-Nesefî** (ö. 508/1115) ve onun **Tebsıratü'l-edille**'siyle olmuştur; Nesefî'nin Mâtürîdîlikteki yeri, Gazzâlî'nin Eş'arîlikteki yerine benzetilir.
+## Mâtürîdîliğin Gelişimi
+>> **Kuruluş:** Mâtürîdî ve öğrencileri (Rüstüfağnî, Hakîm es-Semerkandî, İyâzî ailesi).
+>> **Müteahhirûn:** Ebü'l-Muîn en-Nesefî ile sistemleşme; Necmeddin en-Nesefî'nin el-Akâid'i.
+>> **Şerh-haşiye dönemi:** VIII/XIV. yüzyıldan itibaren; İbnü'l-Hümâm, Hızır Bey, Beyâzîzâde.
+>> **Yeni ilm-i kelâm:** XIX-XX. yüzyılda materyalizm, pozitivizm ve Darvinizm ile mücadele (İzmirli, Ömer Nasuhi Bilmen, Harpûtî, Filibeli Ahmed Hilmi).
+## Mâtürîdiyye'nin Temel Görüşleri
+- **Bilgi:** Kaynaklar duyular, akıl ve doğru haberdir; akla geniş yer verilir.
+- **Allah'ın varlığı:** Âlemin hâdis oluşu Allah'ın varlığına delildir; din tebliğ edilmese de akıl sahibi insan Allah'ı bilmekle yükümlüdür.
+- **Rü'yetullah:** Allah ahirette keyfiyetsiz olarak görülecektir.
+- **Kulların fiilleri:** Fiili yaratan Allah, kesbeden kuldur; kulun **müstakil bir cüz'î iradesi** vardır.
+- **Kader:** İnsanı zorlamaz, sorumluluğu ortadan kaldırmaz.
+- **İman:** Kalple tasdiktir; dil ile ikrar dünyevi hükümler için şarttır. **İman artmaz ve eksilmez**; amel imanın parçası değildir; büyük günah işleyen imandan çıkmaz.
+- **İmamet:** Devlet başkanının adil ve liyakatli olması gerekir.
+- **Yayıldığı yerler:** Hanefîliğin yayıldığı her yerde; Türkiye, Balkanlar, Orta Asya, Hint alt kıtası, Kafkasya.

@@ -1,0 +1,25 @@
+# İslam Dünyasında Yenilenme ve Modernleşme Hareketleri · Özet
+> Ünitenin özü: Tecdid, ihyâ ve ıslah; İslamcılığın doğuşu ve temsilcileri; Cedîdcilik ve Mûsâ Cârullah; modernizmin metinselci ve tarihselci kolları.
+
+## Kavramlar
+| Kavram | Anlamı
+| İhyâ | Diriliş; Kur'an ve sünnete dönüş, bid'at ve hurafeden arınma
+| Tecdîd | Dinin aslına dönerek yenilenme; her yüzyılda bir müceddid hadisi
+| Islah | Düzeltme, iyileştirme; ifsadın karşıtı; modern dönemde Abduh-Reşîd Rızâ akımı
+| İslamcılık | İslam'ı hayatın her alanında yeniden hâkim kılmayı amaçlayan XIX-XX. yüzyıl hareketi
+## İslamcılık
+- **Hazırlayıcı sebepler:** Batı'nın üstünlüğü, sömürgecilik (1798 Mısır işgali vb.), pozitivizm, oryantalizm ve misyonerlik.
+- **Temel meseleler:** ilk kaynaklara dönüş, içtihat, Batı'dan seçmeci yararlanma, eğitim reformu, İslam birliği, şûraya dayalı yönetim.
+- **İlk temsilciler:** **Seyyid Ahmed Han** (Aligarh 1877; tabiata uygunluk, laik eğilim), **Cemâleddin Efgânî** (İslam birliği, siyasi ıslah, el-Urvetü'l-vüskā), **Muhammed Abduh** (eğitim ve kurum ıslahı), **Reşîd Rızâ** (el-Menâr, Selefî yöneliş).
+- **Osmanlı ve Türkiye:** Yeni Osmanlılar; II. Meşrutiyet'te Sırât-ı Müstakîm/Sebîlürreşâd çevresi (Mehmed Âkif, Said Halim Paşa); Cumhuriyet'te Necip Fazıl, Nurettin Topçu, Sezai Karakoç; Millî Görüş.
+- **Islahatçı oluşumların özellikleri:** dinamizm ve teşkilatçılık, nakil-akıl dengesi, Batı'ya faydacı-seçmeci yaklaşım, siyaset-ekonomi-eğitim odaklılık; **kültürel** (Nurculuk, Nedvetü'l-Ulemâ, Muhammediyye) ve **siyasal** ıslahatçılık.
+## Cedîdcilik ve Mûsâ Cârullah
+- **Cedîdcilik:** Rusya Müslümanları arasında usûl-i cedîd eğitim hareketi; **İsmail Gaspıralı**, Tercümân (1883), "Dilde, fikirde, işte birlik", Bahçesaray mektebi (1884); karşıtları Kadîmciler; Sovyet döneminde tasfiye.
+- **Mûsâ Cârullah Bigiyef (1875-1949):** İçtihadı savunup taklidi eleştirdi; Rahmet-i İlâhiyye Bürhanları'nda azabın ebedî olmadığını savundu (Mustafa Sabri'nin eleştirisi); Hâtun, Kitâbü's-Sünne, el-Veşîa; Kahire'de vefat etti.
+## Modernizm
+| | Metinselci (Kur'âniyyûn) | Tarihselci
+| Yaklaşım | Yalnız Kur'an, hadisi büyük ölçüde dışlama | Nüzul bağlamından evrensel ilkeleri çıkarma
+| Temsilciler | Ahmed Han, Tevfik Sıdkî, Perviz, Subhî Mansûr, mealciler, Reşad Halîfe (19'culuk) | Fazlurrahman, Sürûş, Mahmud Muhammed Taha, Arkoun
+- **Fazlurrahman (1919-1988):** Karaçi'de İslami Araştırmalar Enstitüsü müdürü, sonra Chicago; mutlak ve yaşayan sünnet ayrımı; nüzul bağlamından ilkeye, ilkeden bugüne iki aşamalı yöntem.
+- **Eleştiriler:** sünnet ve icmâyı dışlama, Batı'nın seküler etkisi, bireyci yapının doğurduğu bölünmeler.
+- **Gelenekselcilik:** Guénon, Schuon, Seyyid Hüseyin Nasr; ezelî hikmet ve dinlerin aşkın birliği.

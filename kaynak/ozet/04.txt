@@ -1,0 +1,31 @@
+# Hâricîlik ve İbâdiyye · Özet
+> Ünitenin özü: Hâricîler kimdir, Sıffîn'den sonra nasıl ortaya çıktılar, hangi kollara ayrıldılar ve günümüze ulaşan tek kol olan İbâziyye neyi savunur?
+
+## Hâricîlik
+- **Ad:** "Ayrılan, isyan eden" anlamındaki hurûc kökünden gelir; Hz. Ali'den ayrıldıkları için bu adı almışlardır. Toplandıkları yere nispetle **Harûriyye**, "hüküm ancak Allah'ındır" sloganları yüzünden **Muhakkime** de denmiştir; Abdullah b. Vehb er-Râsibî'yi lider seçtikleri için "Vehbiyye" diye de anılırlar.
+- **Doğuşu:** Sıffîn'de (37/657) Şamlıların mızraklara Mushaf sayfaları takmasıyla tahkime gidildi. Tahkimi önce zorla kabul ettiren grup sonra bunu küfür sayıp Hz. Ali'den ayrıldı ve **Harûrâ**'da toplandı; Abdullah b. Vehb er-Râsibî'yi emir seçtiler. Hz. Ali onları 38/658'de **Nehrevan**'da yendi; kaçanlardan **İbn Mülcem** 40/661'de Hz. Ali'yi şehit etti.
+- **Sosyal arka plan:** Çoğunluğu bedevî Arap kabilelerinden (özellikle Temîm) gelen, Kureyş otoritesini kabullenmekte zorlanan, şehirleşmenin getirdiği değişime uyum sağlayamamış, Kur'an'ı lafzî okuyan kurrâ grubudur.
+### Ayrılık gerekçeleri
+1. Hz. Ali'nin "Emîrü'l-müminîn" unvanını tahkimnameden sildirmesi.
+2. Tahkimi kabul etmesi.
+3. Hakemlerin bu işe ehil olmaması.
+4. Allah'ın hüküm verdiği bir meselede insanların hüküm veremeyeceği ("lâ hükme illâ lillâh").
+### Fırkaları
+| Fırka | Kurucusu | Görüşü
+| Ezârika | Nâfi' b. Ezrak (ö. 65/685) | En aşırı kol; kendilerinden olmayanları müşrik sayar, kadın ve çocuklarını öldürmeyi caiz görür, isti'râz uygular.
+| Necedât | Necde b. Âmir (69/689) | Ezârika'yı ilk eleştiren koldur; küfrü "nimet küfrü" ve "din küfrü" olarak ikiye ayırır.
+| Sufriyye | Abdullah b. Asfar et-Temîmî | Günahkârı müşrik sayar ama muhaliflerin kadın ve çocuklarını öldürmeyi caiz görmez.
+| Acâride | Abdülkerîm b. Acred | Kâfirlerin çocukları hakkında ergenliğe kadar hüküm verilmez; Hâricîlerin yanına hicret farz değil faziletlidir.
+| İbâziyye | Abdullah b. İbâz | En mutedil kol; muhalifleri "nimet küfrü" içinde görür, günümüze ulaşmıştır.
+### Ortak görüşleri
+- **Hilafet:** Kureyşli olmak şart değildir; adil, âlim ve zâhid her Müslüman seçimle halife olabilir. Ebû Bekir ve Ömer'in hilafeti meşrudur; Osman'ın son altı yılı ve Ali'nin tahkimden sonraki dönemi meşru değildir.
+- **Amel imanın parçasıdır;** büyük günah işleyen kâfir olur (İbâziyye hariç).
+- **Adalet** devletin temel vasfıdır; zalim imama karşı çıkmak gerekir.
+## İbâziyye
+- **Kurucu:** Abdullah b. İbâz; fikir babası **Câbir b. Zeyd** (ö. 93/712). **Ebû Ubeyde Müslim b. Ebû Kerîme**'nin yetiştirdiği "hameletü'l-ilm" mezhebi yaydı.
+- **Devletler:** Hadramut'ta Tâlibü'l-Hak (129/747), Mağrib'de Tâhert merkezli **Rüstemîler**, **Umman** imameti (bugün de İbâzî hânedan).
+- **İmamet:** Seçimle (biat) olur, Kureyş şartı yoktur. Gizlilik dönemine **kitmân** denir; saldırı karşısında seçilen lidere **imâmü'd-difâ'**, normal şartlarda seçilen imama **imâmü'l-bey'a** denir.
+- **İtikad:** Sıfatlar zatın aynıdır, Kur'an mahluktur, rü'yetullah dünyada da âhirette de imkânsızdır, büyük günahkâr için şefaat yoktur ve tövbe etmezse ebedî cehennemliktir. Kader konusunda kesb görüşü (Eş'ariyye'ye yakın).
+- **Muhaliflere bakış:** Diğer Müslümanlar müşrik değil, **nimet küfrü** içindedir; isti'râz caiz değildir, onlarla evlenmek ve miraslaşmak caizdir.
+- **Dokuz ilke (el-usûlü't-tis'a):** tevhid, kader, adalet, va'd-vaîd, el-menzile beyne'l-menzileteyn, lâ menzile beyne'l-menzileteyn, emr ve nehy, velâyet ve berâet, esmâ ve ahkâm.
+- **Günümüz:** Umman (nüfusun yaklaşık %40-45'i), Zengibar, Libya (Cebel-i Nefûse), Tunus (Cerbe), Cezayir (Mizab); toplam 2-3 milyon.

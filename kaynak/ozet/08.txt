@@ -1,0 +1,37 @@
+# Bâtınî Eğilimli Akımlar: Nusayrîlik · Özet
+> Ünitenin özü: Nusayrîlik nasıl doğdu, Hz. Ali'yi nasıl konumlandırır, ibadetleri ve hiyerarşisi nasıldır, Anadolu Aleviliğinden nasıl ayrılır?
+
+## Ad ve Tarihçe
+- **Ad:** Büyük ihtimalle kurucusu **Ebû Şuayb Muhammed b. Nusayr en-Nemîrî**'den (ö. 270/883) gelir; önce "Nemîriyye" denmiş, V/XI. yüzyıldan itibaren "Nusayrî" adı yaygınlaşmıştır. Oryantalistlerin Hristiyanlıkla ilişkilendiren iddiaları ve mensupların Asr-ı saadete dayandıran açıklamaları da vardır. Mensupları bu adı sevmez; kendilerine **Alevî** veya **Arap Alevî** derler.
+- **Doğuş:** III/IX. yüzyılda Irak'ta, onuncu imam Ali en-Nakī ve on birinci imam Hasan el-Askerî zamanında ortaya çıktı. İbn Nusayr'ın Hasan el-Askerî'ye açılan kapı (**bâb**) olduğunu, bir rivayete göre de Ali en-Nakī'nin ilahlığını ve kendisinin onun peygamberi olduğunu iddia ettiği nakledilir.
+- **Gelişme:** **Hüseyin b. Hamdân el-Hasîbî** (ö. 346/957 veya 358/969) mezhebin dinî-mistik karakterini geliştirip yaydı; merkez zamanla **Suriye**'ye (Lazkiye, Cebel-i Ensâriyye) kaydı. Muhammed b. Yûnus el-Kilâzî zamanında (ö. 1011/1602) mezhep, Kitâbü'l-Mecmû'daki bazı ibarelerin yorumu yüzünden **Haydariyye (Şemsiyye)** ve **Kilâziyye (Kameriyye)** diye ikiye ayrıldı.
+- **Osmanlı ve sonrası:** 922/1516 Mercidâbık'tan sonra Osmanlı idaresine girdiler. Hâfız Esed (1970) ve Beşşâr Esed dönemlerinde Suriye yönetiminde etkili oldular.
+## İnanç Esasları
+- **Tanrı inancı:** Hz. Ali'nin ilahlaştırılması (hulûl); **Mânâ-İsim-Bâb** üçlemesi: Ali (mânâ), Muhammed (isim/hicap), Selmân-ı Fârisî (bâb).
+- **Beş Eytâm (beş yetim):** Mikdâd, Ebû Zer, Abdullah b. Revâha, Osman b. Maz'ûn ve Kanber b. Kâdân; âlemin yaratılışında görevli kutsal şahsiyetler.
+- **Tenâsüh (tekammus):** Ruh başka bedenlere geçer; iyiler yıldızlara yükselir, kötüler hayvan bedenlerine girer.
+- **Cennet ve cehennem** semboliktir; peygamberler ilâhî nurun parçasıdır; melekler ve şeytanlar sembolik yorumlanır.
+- **Gizlilik ve takiyye:** Sırlar kadınlara, çocuklara ve yabancılara açıklanmaz.
+- **Şarabın kutsanması:** Şarap (nakfi) uluhiyetin sembolü sayılır.
+## İbadetler ve Dinî Hayat
+| İbadet | Nusayrîlikteki anlamı
+| Namaz | Sesli, gizli ve bireysel dua; camiye ihtiyaç yok
+| Oruç | Sırları gizlemek; Hz. Muhammed'in babası Abdullah'ın sessizliğini sembolize eder
+| Zekât | Dini öğrenip aktarmak; Selmân'ı temsil eder
+| Hac | Kendi kutsal mekânlarını (ziyaret yerleri) ziyaret
+| Cihad | Hz. Ali'ye haksızlık ettiği düşünülen sahabeye lanet
+¶ Bayramlar arasında Ramazan ve Kurban bayramlarının yanında **Gadîr-i Hum**, **Nevruz**, **Mihrican**, Noel ve Paskalya gibi günler de vardır.
+## Toplumsal Yapı
+- **Ukkāl** (bilenler) ve **cühhâl** (avam) ayrımı; büyük şeyh, şeyhler (babadan oğula), nakipler ve necipler.
+- Mezhebe giriş 16-18 yaşlarında, belirli aşamalarla ve gizlilik yeminiyle olur.
+- Kadınlar dinî bilgi ve sırlardan uzak tutulur, cemaate alınmaz.
+## Arap Aleviliği ile Anadolu Aleviliği
+| Konu | Nusayrîlik | Anadolu Aleviliği
+| Köken ve dil | Arap, Arapça | Türk, Türkçe
+| Önderler | Hasîbî ve Nusayrî şeyhleri | Ahmed Yesevî, Hacı Bektaş-ı Velî
+| İnanç | Ali'nin tanrısal yönü öne çıkar; tenâsüh temeldir | Tasavvufî, Kur'an'ın bütünlüğü kabul edilir
+| İbadet | Bireysel ve gizli | Cemevlerinde, kadın-erkek birlikte
+| Kadın | Sırlardan mahrum | Cemlere katılır
+## Literatür ve Günümüz
+- Temel kitap Hasîbî'ye nispet edilen ve her Nusayrî'nin ezberlemesi gereken **Kitâbü'l-Mecmû'**dur; Süleyman Efendi'nin **el-Bâkûretü's-Süleymâniyye**'si mezhebin sırlarını ifşa eden önemli bir kaynaktır.
+- Bugün Suriye (nüfusun yaklaşık %8-12'si), Lübnan'ın kuzeyi ve Türkiye'de Hatay, Adana ve Mersin çevresinde yaşarlar.

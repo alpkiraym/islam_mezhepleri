@@ -1,0 +1,22 @@
+# Şîa ve İmâmiyye · Özet
+> Ünitenin özü: Şîa kimdir, nasıl doğdu ve mezhepleşti; İmâmiyye on iki imamı, gaybeti, inanç esaslarını ve fıkhını nasıl anlar?
+
+## Şîa: Ad, Doğuş ve Mezhepleşme
+: Şîa = Hz. Ali'nin Hz. Peygamber'den sonra açık bir nas ve tayinle imam olduğuna, imametin onun soyundan devam ettiğine inanan topluluk. Kelime "taraftar, yardımcı" anlamındadır.
+- **Diğer adlar:** **Râfıza** (Zeyd b. Ali'yi Ebû Bekir ve Ömer'den teberrî etmediği için terk edenler), **Sebeiyye** (İbn Sebe'ye nispet).
+- **Doğuşu hakkındaki görüşler:** Hz. Peygamber zamanı (Şiî müellifler), Sakîfe ve ilk hilafet tartışmaları, Hz. Osman'a isyan, Cemel, Hz. Ali'nin şehadeti, **Kerbelâ** (61/680) ve Tevvâbûn, nas ve tayin akidesinin oluşumu. Kökeni Yahudi, Hristiyan, İran veya Arap kaynaklı sayan yaklaşımlar da vardır.
+- **Mezhepleşme:** Kerbelâ, **Tevvâbûn** hareketi ve **Muhtâr es-Sakafî** isyanı (Keysâniyye; mehdîlik, gaybet, ric'at, bedâ' fikirleri) Şîa'yı siyasi bir gruptan itikadî bir mezhebe dönüştürdü. Kurumsallaşma 80-120 hicrî yılları arasında gerçekleşti; Emevîlerin son döneminde Beyân-Muğîre, Ebû Mansûr el-İclî, Zeyd b. Ali ve Abdullah b. Muâviye isyanları yaşandı.
+- **Dayandığı ayetler:** Tathîr (Ahzâb 33/33), ikmâlü'd-dîn (Mâide 5/3), velâyet (Mâide 5/55), meveddet (Şûrâ 42/23) ve mübâhele ayetleri. **Hadisler:** Sakaleyn, Gadîr-i Hum ("Ben kimin mevlâsı isem Ali de onun mevlâsıdır"), yakın akrabaların uyarılması (inzâr).
+## İmâmiyye (İsnâaşeriyye)
+- **Adları:** İmameti dinin temeli saydığı için **İmâmiyye**, on iki imama inandığı için **İsnâaşeriyye**, fıkhı Ca'fer es-Sâdık'a dayandığı için **Ca'feriyye**.
+- **On iki imam:** Ali, Hasan, Hüseyin, Ali Zeynelâbidîn, Muhammed el-Bâkır, Ca'fer es-Sâdık, Mûsâ el-Kâzım, Ali er-Rızâ, Muhammed et-Takī (Cevâd), Ali en-Nakī (Hâdî), Hasan el-Askerî, Muhammed el-Mehdî (Kāim).
+- **Gaybet:** On ikinci imam 260/874'te gizlendi. **Gaybet-i suğrâ** (260-329/874-941) döneminde dört sefir (Osman b. Saîd, Muhammed b. Osman, Hüseyin b. Rûh, Ali b. Muhammed es-Simerî) aracılık etti; ardından **gaybet-i kübrâ** başladı ve devam etmektedir.
+- **Tarihçe:** Büveyhîler döneminde temel eserler yazıldı (Kuleynî, İbn Bâbeveyh, Şeyh Müfîd, Şerîf el-Murtazâ, Tûsî); İlhanlılar dönemi rahat geçti; **Safevîlerle** (1501) İran'da resmî mezhep oldu; Usûlî-Ahbârî tartışmasında Usûlîler galip geldi; 1979'da **velâyet-i fakîh** esasına dayanan İslam Cumhuriyeti kuruldu.
+## Görüşleri
+- **Usûlü'd-dîn:** tevhid, adalet, nübüvvet, imamet, meâd.
+- **İmamet:** Nas ile tayin, imamların **ismeti**, ilmi ve efdaliyeti; ilk üç halifenin imameti batıldır.
+- **Diğer inançlar:** **bedâ'** (Allah'ın bir hükmü değiştirmesi), **ric'at** (Mehdî ile bazı ölülerin dünyaya dönüşü), **takiyye**, **tevellâ ve teberrâ**.
+- **Kaynaklar:** Kur'an, sünnet (on dört masumun sözleri), icmâ ve akıl.
+- **Fıkıh:** Ezanda "Eşhedü enne Aliyyen veliyyullah" ve "Hayye alâ hayri'l-amel"; abdestte ayaklar meshedilir; **humus** (kazancın beşte biri) ve **mut'a** nikâhı caizdir; namazlar cem edilebilir.
+- **Ulema hiyerarşisi:** merci-i taklîd, âyetullah el-uzmâ, âyetullah, hüccetü'l-İslâm, şeyh-fakih, talebe.
+- **Günümüz:** İran, Irak, Azerbaycan, Bahreyn ve Lübnan'da yoğundur; Şiîlerin yaklaşık %80-85'ini oluşturur.
